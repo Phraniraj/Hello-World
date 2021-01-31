@@ -1,3 +1,5 @@
+<h1>Hello world, welcome to simple Devops Project !! </h1>
+<h2>Deploying on a VM</h2>
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
